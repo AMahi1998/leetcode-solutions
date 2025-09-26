@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AMahi1998/leetcode-solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AMahi1998/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AMahi1998/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/AMahi1998/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AMahi1998/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
