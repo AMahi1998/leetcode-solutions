@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/AMahi1998/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/AMahi1998/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AMahi1998/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
