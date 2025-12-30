@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AMahi1998/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AMahi1998/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Geometry
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AMahi1998/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
