@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/AMahi1998/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AMahi1998/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0840-magic-squares-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
