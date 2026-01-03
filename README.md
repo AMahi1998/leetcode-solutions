@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
