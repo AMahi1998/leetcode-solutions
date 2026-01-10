@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMahi1998/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AMahi1998/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/AMahi1998/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AMahi1998/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AMahi1998/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3136-valid-word](https://github.com/AMahi1998/leetcode-solutions/tree/master/3136-valid-word) |
 ## Binary Search
 |  |
