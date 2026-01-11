@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AMahi1998/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AMahi1998/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMahi1998/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AMahi1998/leetcode-solutions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMahi1998/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AMahi1998/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AMahi1998/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AMahi1998/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
