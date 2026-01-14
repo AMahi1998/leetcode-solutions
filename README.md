@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AMahi1998/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AMahi1998/leetcode-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3453-separate-squares-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AMahi1998/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3453-separate-squares-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3453-separate-squares-i) |
 ## Geometry
 |  |
 | ------- |
