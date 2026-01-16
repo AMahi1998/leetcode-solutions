@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AMahi1998/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AMahi1998/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AMahi1998/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AMahi1998/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AMahi1998/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AMahi1998/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
