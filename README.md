@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AMahi1998/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AMahi1998/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/AMahi1998/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AMahi1998/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AMahi1998/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1895-largest-magic-square](https://github.com/AMahi1998/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1895-largest-magic-square](https://github.com/AMahi1998/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AMahi1998/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AMahi1998/leetcode-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
