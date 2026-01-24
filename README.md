@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AMahi1998/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AMahi1998/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AMahi1998/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/AMahi1998/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AMahi1998/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/AMahi1998/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AMahi1998/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AMahi1998/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/AMahi1998/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AMahi1998/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AMahi1998/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AMahi1998/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
