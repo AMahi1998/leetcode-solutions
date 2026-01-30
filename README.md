@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AMahi1998/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AMahi1998/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AMahi1998/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AMahi1998/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AMahi1998/leetcode-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/AMahi1998/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AMahi1998/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3136-valid-word](https://github.com/AMahi1998/leetcode-solutions/tree/master/3136-valid-word) |
 ## Binary Search
 |  |
@@ -338,10 +341,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AMahi1998/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AMahi1998/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
