@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AMahi1998/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AMahi1998/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/AMahi1998/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/AMahi1998/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/AMahi1998/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AMahi1998/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AMahi1998/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AMahi1998/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
