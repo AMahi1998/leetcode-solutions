@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AMahi1998/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AMahi1998/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AMahi1998/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AMahi1998/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AMahi1998/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AMahi1998/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Depth-First Search
 |  |
 | ------- |
