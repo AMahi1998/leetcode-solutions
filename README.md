@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AMahi1998/leetcode-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3379-transformed-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/AMahi1998/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AMahi1998/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AMahi1998/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Combinatorics
